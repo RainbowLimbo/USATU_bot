@@ -8,7 +8,7 @@ from db import BotDB
 
 BotDB = BotDB('UsatuBot_Database.db')
 
-bot = Bot(token='5224971399:AAHzf8xtHU8ko3sSEa3L_beQsJjgiP-Dqj4')
+bot = Bot(token='Токен_бота')
 dp = Dispatcher(bot, storage=MemoryStorage())
 
 
